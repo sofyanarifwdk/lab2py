@@ -6,15 +6,16 @@ Kelas   : TI.22.B1
 --------------------------------------------------------------
 
 **DAFTAR ISI :**
-> - [Untuk menjalankan proses/langkah-langkah praktikum](#Untuk-menjalankan-proses/langkah-langkah-praktikum)
+> - [Install Pyton](#Install-Pyton)
 > - [Latihan 1](#latihan-1)
 > - [Latihan 2](#latihan-2)
 > - [Latihan 3](#latihan-3)
+> - [Penjelasan Program](#Penjelasan-Program)
 
-<h2> TUGAS PRAKTIKUM Proses / Langkah-Langkah Praktikum Menggunakan Python </h2>
+<h2> Belajar Python Untuk Pemula </h2>
 
 
-### Untuk menjalankan proses/langkah-langkah praktikum
+### Install Python
 
 1.  Mendownload aplikasi Python terlebih dahulu. https://www.python.org/downloads
 
@@ -30,6 +31,11 @@ Kelas   : TI.22.B1
 3.  lalu lakukan printah >> print("Hello")
 4.  kemudian kita ketikan perintah kembali >> print("Saya sedang belajar python")
 5.  Hasil dari langkah 3 dan 4, seperti gambar berikut ini :
+
+#print() method untuk menampilkan output
+#kita akan menampilkan beberapa output berupa string
+print("Haloo dunia")
+print("Saya sedang belajar Pyton")
 
 ![python console](https://user-images.githubusercontent.com/79274212/196760520-48f96b58-f932-40ed-8392-737556a4bcc6.PNG)
 
