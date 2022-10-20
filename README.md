@@ -1,5 +1,5 @@
 **DAFTAR ISI :**
-> - [Install Pyton](#Install-Pyton)
+> - [Install Python](#Install-Python)
 > - [Latihan 1](#latihan-1)
 > - [Latihan 2](#latihan-2)
 > - [Latihan 3](#latihan-3)
