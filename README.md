@@ -32,12 +32,12 @@ Kelas   : TI.22.B1
 4.  kemudian kita ketikan perintah kembali >> print("Saya sedang belajar python")
 5.  Hasil dari langkah 3 dan 4, seperti gambar berikut ini :
 
-''' python
-#print() method untuk menampilkan output
-#kita akan menampilkan beberapa output berupa string
-print("Haloo dunia")
-("Saya sedang belajar Pyton")
-'''
+**''' python**
+**#print() method untuk menampilkan output**
+**#kita akan menampilkan beberapa output berupa string**
+**print("Haloo dunia")**
+**("Saya sedang belajar Pyton")**
+**'''**
 
 ![python console](https://user-images.githubusercontent.com/79274212/196760520-48f96b58-f932-40ed-8392-737556a4bcc6.PNG)
 
