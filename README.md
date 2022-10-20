@@ -5,7 +5,7 @@ Nim     : 312210093
 Kelas   : TI.22.B1
 --------------------------------------------------------------
 
-** DAFTAR ISI :**
+**DAFTAR ISI :**
 > - [Untuk menjalankan proses/langkah-langkah praktikum](#Untuk-menjalankan-proses/langkah-langkah-praktikum)
 > - [Latihan 1](#latihan-1)
 > - [Latihan 2](#latihan-2)
@@ -19,7 +19,6 @@ Kelas   : TI.22.B1
 1.  Mendownload aplikasi Python terlebih dahulu. https://www.python.org/downloads
 
 ![python](https://user-images.githubusercontent.com/79274212/196760522-d7e2d382-193a-43c4-b19e-f5560a7845bd.PNG)
-
 <img scr="https://user-images.githubusercontent.com/79274212/196760522-d7e2d382-193a-43c4-b19e-f5560a7845bd.PNG">
 
 2.  Install python yang baru saja kita download.
@@ -65,13 +64,13 @@ Kelas   : TI.22.B1
 ### Penjelasan Program
 
 *   Python adalah sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari.
-    *Kegunaan Python :
-    1.  Matematika: menyelesaikan permasalahan matematika seperti aljabar, kalkulus, dan trigonometri.
-    2.  Penulisan skrip sistem: membuat perintah secara otomatis dan menyelesaikan pekerjaan yang memakan waktu.
-    3.  Software development: bug tracking dan testing software.
-    4.  Web development: URL routing, memastikan keamanan website, memproses dan mengirim data.
-    5.  Data analysis: melakukan kalkulasi statistik, visualisasi data, dan menganalisis data.
-    6.  Machine learning: membuat algoritma untuk modul pembelajaran.
+*   Kegunaan Python :
+1.  Matematika: menyelesaikan permasalahan matematika seperti aljabar, kalkulus, dan trigonometri.
+2.  Penulisan skrip sistem: membuat perintah secara otomatis dan menyelesaikan pekerjaan yang memakan waktu.
+3.  Software development: bug tracking dan testing software.
+4.  Web development: URL routing, memastikan keamanan website, memproses dan mengirim data.
+5.  Data analysis: melakukan kalkulasi statistik, visualisasi data, dan menganalisis data.
+6.  Machine learning: membuat algoritma untuk modul pembelajaran.
 
 
 
