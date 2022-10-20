@@ -5,15 +5,22 @@ Nim     : 312210093
 Kelas   : TI.22.B1
 --------------------------------------------------------------
 
+** DAFTAR ISI :**
+> - [Untuk menjalankan proses/langkah-langkah praktikum](#Untuk-menjalankan-proses/langkah-langkah-praktikum)
+> - [Latihan 1](#latihan-1)
+> - [Latihan 2](#latihan-2)
+> - [Latihan 3](#latihan-3)
 
-<h1> TUGAS PRAKTIKUM </h1>
-    <h2> Proses / Langkah-Langkah Praktikum Menggunakan Python </h2>
+<h2> TUGAS PRAKTIKUM Proses / Langkah-Langkah Praktikum Menggunakan Python </h2>
 
 
 ### Untuk menjalankan proses/langkah-langkah praktikum
+
 1.  Mendownload aplikasi Python terlebih dahulu. https://www.python.org/downloads
 
 ![python](https://user-images.githubusercontent.com/79274212/196760522-d7e2d382-193a-43c4-b19e-f5560a7845bd.PNG)
+
+<img scr="https://user-images.githubusercontent.com/79274212/196760522-d7e2d382-193a-43c4-b19e-f5560a7845bd.PNG">
 
 2.  Install python yang baru saja kita download.
 3.  Lalu kita centang pilihan 'Add Python 3.10.8 to PATH' agar dapat dipanggil dari CMD.
@@ -41,7 +48,7 @@ Kelas   : TI.22.B1
 
 ![open](https://user-images.githubusercontent.com/79274212/196762650-a6af943e-1211-4737-abe3-e2a3dff1382d.PNG)
 
-2.  menggunakan fungsi input untuk menggambilnilai variable dari keyboard.
+2.  menggunakan fungsi input untuk menggambil nilai variable dari keyboard.
 
 ![fungsi input](https://user-images.githubusercontent.com/79274212/196760502-60f31d9e-8417-4e49-9648-06f39f1e38eb.PNG)
 
@@ -57,11 +64,16 @@ Kelas   : TI.22.B1
 
 ### Penjelasan Program
 
-*   Menurut Saya program ptyhon lebih bersahabat untuk pengguna baru atau pemula dibanding kan program java. karena syntax yang dipakai lebih simple dan sederhana. namun untuk masing-masing latihan di atas dalam penggunaan syntax 'print()' huruf P tidak boleh besar dikarena akan eror pada saat run program. Tetapi untuk text di perbolehkan menggunakan huruf besar atau kecil, untuk latihan 1 dan 2 bagi saya yang baru belajar python tidak menemukan kesulitan namun untuk latihan soal 3 sedikit kesulitan dikarenakan belum terbiasanya dan sedikit pengetahuan tentang python , dll.
+*   Python adalah sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari.
+    *Kegunaan Python :
+    1.  Matematika: menyelesaikan permasalahan matematika seperti aljabar, kalkulus, dan trigonometri.
+    2.  Penulisan skrip sistem: membuat perintah secara otomatis dan menyelesaikan pekerjaan yang memakan waktu.
+    3.  Software development: bug tracking dan testing software.
+    4.  Web development: URL routing, memastikan keamanan website, memproses dan mengirim data.
+    5.  Data analysis: melakukan kalkulasi statistik, visualisasi data, dan menganalisis data.
+    6.  Machine learning: membuat algoritma untuk modul pembelajaran.
 
-### Kesimpulan 
 
-*   Harus lebih banyak-banyak membaca tentang python dan cara penggunaanya dengan di praktikan. karena itu akan membuat kita mengetahui salah atau tidak nya syntax yang kita gunakan.
 
 
 
