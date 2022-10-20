@@ -66,12 +66,12 @@ Kelas   : TI.22.B1
 
 *   Python adalah sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari.
 *   Kegunaan Python :
-    -  Matematika: menyelesaikan permasalahan matematika seperti aljabar, kalkulus, dan trigonometri.
-    -  Penulisan skrip sistem: membuat perintah secara otomatis dan menyelesaikan pekerjaan yang memakan waktu.
-    -  Software development: bug tracking dan testing software.
-    -  Web development: URL routing, memastikan keamanan website, memproses dan mengirim data.
-    -  Data analysis: melakukan kalkulasi statistik, visualisasi data, dan menganalisis data.
-    -  Machine learning: membuat algoritma untuk modul pembelajaran.
+    -  Matematika : menyelesaikan permasalahan matematika seperti aljabar, kalkulus, dan trigonometri.
+    -  Penulisan skrip sistem : membuat perintah secara otomatis dan menyelesaikan pekerjaan yang memakan waktu.
+    -  Software development : bug tracking dan testing software.
+    -  Web development : URL routing, memastikan keamanan website, memproses dan mengirim data.
+    -  Data analysis : melakukan kalkulasi statistik, visualisasi data, dan menganalisis data.
+    -  Machine learning : membuat algoritma untuk modul pembelajaran.
 
 
 
